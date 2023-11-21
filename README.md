@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-30-905_512.gif)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2qboeK87JJpnLcfuFQxeZY0b2y5bJOGuWK5hSZ7Y4CMlPcAaLTwTKDe9PYcXRpx1TeQ&usqp=CAU)]
  <h1 align="center">Hi 👋, I'm Sunil Gowda S</h1>
 <h3 align="center">Deploying Dreams: A DevOps Odyssey</h3>
 <img align="right"  width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
