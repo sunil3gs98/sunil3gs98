@@ -2,7 +2,7 @@
 <h3 align="center">A DevOps Odyssey</h3>
 <img align="right"  width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
 
-- 🌱 I’m currently learning **Grafana,Kubernetes**
+- 🌱 I’m currently learning **Gitlab,Github Action,Ansible,ArgoCd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
