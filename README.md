@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil</h1>
 <h3 align="center">A DevOps Odyssey</h3>
-<img align="right"  width="400" src="https://cdn.faun.dev/prod/media/public/original_images/DevOps-min.gif">
+<img align="right"  width="400" src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/autodevops-dribbble-gif.gif">
 
 - 🌱 I’m currently learning **Gitlab,Github Action,Ansible,ArgoCd**
 
